@@ -1,16 +1,23 @@
-## Hi there 👋
+## WWCROM
 
-<!--
-**wwrom/wwrom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Engineer • Dev Tools • Open Source 
 
-Here are some ideas to get you started:
+I love Writing C.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Keep it Simple. Keep it Fast. Understand what it does.
+
+> ( Also Yes, I use Ubuntu not Arch, Vim .)
+
+## Interests 
+
+- Tech Stuff in RAW
+
+
+---
+> " Fast is Better than Fancy."
+
+ - [Twitter](https://)
+ - [LinkedIn](https://)
+ - [Portfolio](https://)
+ 
