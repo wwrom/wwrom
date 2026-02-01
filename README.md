@@ -1,17 +1,10 @@
 ## Hi 👋 My Name is Wcrom
 
-**Engineer • Dev Tools • Open Source 
-
-I love Writing C.
-
-
-Keep it Simple. Keep it Fast. Understand what it does.
-
-> ( Also Yes, I use Ubuntu not Arch, Vim .)
-
-## Interests 
-
-- Tech Stuff in RAW
+**Engineer • Dev Tools • Open Source **
+## About Me
+**Let’s make the web a more exciting place, one quirky line of code at a time!**
+<br>
+I'm currently learning C++
 
 ### Skills
 
